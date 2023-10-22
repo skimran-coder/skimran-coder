@@ -3,7 +3,7 @@
 Passionate Front-End Developer | React.js | Tailwind CSS | JavaScript | CSS3 | HTML5 
 
 ## 👨‍💻 About Me
-👨‍💻 I'm an enthusiastic web developer with a strong skill set in React.js, Tailwind CSS, JavaScript, CSS3, HTML5, Git, and GitHub.
+🌐 I'm an enthusiastic web developer with a strong skill set in React.js, Tailwind CSS, JavaScript, CSS3, HTML5, Git, and GitHub.
 
 🚀 My passion lies in creating captivating websites with a focus on responsive design and user-centric experiences.
 
