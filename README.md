@@ -23,12 +23,15 @@ Passionate Front-End Developer | React.js | Tailwind CSS | JavaScript | CSS3 | H
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skimranhussain4@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/skimranhussain)
 
-
-
 ## 🚀 My Projects
 - [Weather App](https://github.com/skimran-coder/Weather_App)
 - [Password Generator](https://github.com/skimran-coder/Password_Generator)
 - [Dev Detective](https://github.com/skimran-coder/Dev_Detective)
+
+## 🏆 Trophies:
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"></a>
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=skimran-coder&row=4&theme=onedark&no-frame=true" />
 
 ## 💡 Fun Facts
 - ✍️ I like to write in my free time.
