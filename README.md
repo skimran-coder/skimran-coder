@@ -31,6 +31,6 @@ Passionate Front-End Developer | React.js | Tailwind CSS | JavaScript | CSS3 | H
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skimran-coder)
 
 👁️ Visitors
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=skimran-coder.skimran-coder)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=skimran-coder.visitor-badge)
 
 Let's connect and build something amazing together! 🚀
