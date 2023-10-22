@@ -28,13 +28,14 @@ Passionate Front-End Developer | React.js | Tailwind CSS | JavaScript | CSS3 | H
 - [Password Generator](https://github.com/skimran-coder/Password_Generator)
 - [Dev Detective](https://github.com/skimran-coder/Dev_Detective)
 
+## 💡 Fun Facts
+- ✍️ I like to write in my free time.
+
 ## 🏆 Trophies:
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
 <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=skimran-coder&row=4&theme=onedark&no-frame=true" />
 
-## 💡 Fun Facts
-- ✍️ I like to write in my free time.
 <hr/>
 
 📊 GitHub Stats
