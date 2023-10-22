@@ -2,31 +2,33 @@
 
 Passionate Front-End Developer | React.js | Tailwind CSS | JavaScript | CSS3 | HTML5 
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 - 💼 Actively seeking front-end development opportunities to apply and expand my skills.
 - 🌱 I'm constantly learning and improving my craft.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 - HTML5, CSS3, JavaScript
 - React.js, Tailwind CSS
 - Git, GitHub
 
-📫 Contact Me
+## 📫 Contact Me
 <br>
 <br>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-imran-hussain/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](skimranhussain4@gmail.com)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/skimranhussain)
 
-🚀 My Projects
+## 🚀 My Projects
 - [Weather App](https://github.com/skimran-coder/Weather_App)
 - [Password Generator](https://github.com/skimran-coder/Password_Generator)
 - [Dev Detective](https://github.com/skimran-coder/Dev_Detective)
 
-💡 Fun Facts
+## 💡 Fun Facts
 - ✍️ I like to write in my free time.
 
 📊 GitHub Stats
+<br>
+<br>
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=skimran-coder&show_icons=true)
 
 📈 My GitHub Top Languages
