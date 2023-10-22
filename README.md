@@ -29,7 +29,7 @@ Passionate Front-End Developer | React.js | Tailwind CSS | JavaScript | CSS3 | H
 - [Dev Detective](https://github.com/skimran-coder/Dev_Detective)
 
 ## 💡 Fun Facts
-- ✍️ I like to write in my free time.
+- 🖋️ In my moments of leisure, I'm captivated by the art of storytelling through the written word.
 
 ## 🏆 Trophies:
 
