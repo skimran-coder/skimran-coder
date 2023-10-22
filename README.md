@@ -33,6 +33,7 @@ Passionate Front-End Developer | React.js | Tailwind CSS | JavaScript | CSS3 | H
 ## 💡 Fun Facts
 - ✍️ I like to write in my free time.
 <hr/>
+
 📊 GitHub Stats
 <br>
 <br>
