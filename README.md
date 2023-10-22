@@ -1,4 +1,4 @@
-# Hello, I'm [Sk. Imran Hussain] 👋
+# Hello, I'm Sk. Imran Hussain 👋
 
 Passionate Front-End Developer | React.js | Tailwind CSS | JavaScript | CSS3 | HTML5 
 
