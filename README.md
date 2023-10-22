@@ -11,7 +11,7 @@ Passionate Front-End Developer | React.js | Tailwind CSS | JavaScript | CSS3 | H
 - React.js, Tailwind CSS
 - Git, GitHub
 
-## 📫 Contact Me
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-imran-hussain/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skimranhussain4@gmail.com)
