@@ -1,6 +1,6 @@
 # Hello, I'm Sk. Imran Hussain 👋
 
-Passionate Front-End Developer | React.js | Tailwind CSS | JavaScript | CSS3 | HTML5 
+Passionate Front-End Developer | React.js | Tailwind CSS | JavaScript | CSS3 | HTML5 | Git | GitHub. 🚀
 
 ## 👨‍💻 About Me
 🌐 I'm an enthusiastic web developer with a strong skill set in React.js, Tailwind CSS, JavaScript, CSS3, HTML5, Git, and GitHub.
