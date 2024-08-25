@@ -37,7 +37,7 @@ Passionate Front-End Developer | React.js | Tailwind CSS | JavaScript | CSS3 | H
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/skimranhussain4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-imran-hussain/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skimranhussain4@gmail.com)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/skimranhussain)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/skimranhussain)
 
 ## 🚀 My Projects
 [![Weather App](Asset/weather.png)](https://github.com/skimran-coder/Weather_App)
