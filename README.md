@@ -44,9 +44,10 @@ Full-Stack Developer | MERN Stack | PostgreSQL | Prisma | Next.js | Redux | Git 
 [![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/skimranhussain)
 
 ## 🚀 My Projects
+[![Food App](Asset/foodapp.png)](https://github.com/skimran-coder/Food-App)
+[![Brainly](Asset/brainly.png)](https://github.com/skimran-coder/brainly)
+[![Portfolio](Asset/portfolio.png)](https://github.com/skimran-coder/Portfolio)
 [![Knowledge Nation](Asset/project_1.png)](https://github.com/skimran-coder/Knowledge-Nation)
-[![Weather App](Asset/weather.png)](https://github.com/skimran-coder/Weather_App)
-[![Password Generator](Asset/passwordGenerator.png)](https://github.com/skimran-coder/Password_Generator)
 
 ## 💡 Fun Facts
 - 🖋️ In my moments of leisure, I'm captivated by the art of storytelling through the written word.
