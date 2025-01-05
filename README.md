@@ -2,19 +2,11 @@
 
 Full-Stack Developer | MERN Stack | PostgreSQL | Prisma | Next.js | Redux | Git | Firebase
 
-## 👨‍💻 About Me
-🌐 I'm an enthusiastic full-stack developer with expertise in MERN stack, PostgreSQL, Prisma, and modern tools like Next.js, Monorepo, and Turborepo.
-
-🚀 My passion lies in creating scalable, efficient, and responsive web applications with seamless user experiences.
-
-🎨 I excel in crafting efficient and visually appealing interfaces using React and Tailwind CSS, while leveraging robust backend systems with Node.js, Express.js, and PostgreSQL.
-
-🤝 Collaborative and detail-oriented, I prioritize effective version control with Git and GitHub, ensuring seamless teamwork and efficient code management.
-
-📚 Committed to continuous learning and staying updated, I'm excited to contribute to innovative web projects and eager to connect for opportunities!
-
-✍️ In my leisure moments, I indulge in the art of writing, exploring realms beyond coding.
-
+## 🚀 My Projects
+[![Food App](Asset/foodapp.png)](https://github.com/skimran-coder/Food-App)
+[![Brainly](Asset/brainly.png)](https://github.com/skimran-coder/brainly)
+[![Portfolio](Asset/portfolio.png)](https://github.com/skimran-coder/Portfolio)
+[![Knowledge Nation](Asset/project_1.png)](https://github.com/skimran-coder/Knowledge-Nation)
 
 ## 🛠️ Tech Stack
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -37,18 +29,25 @@ Full-Stack Developer | MERN Stack | PostgreSQL | Prisma | Next.js | Redux | Git 
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
+## 👨‍💻 About Me
+🌐 I'm an enthusiastic full-stack developer with expertise in MERN stack, PostgreSQL, Prisma, and modern tools like Next.js, Monorepo, and Turborepo.
+
+🚀 My passion lies in creating scalable, efficient, and responsive web applications with seamless user experiences.
+
+🎨 I excel in crafting efficient and visually appealing interfaces using React and Tailwind CSS, while leveraging robust backend systems with Node.js, Express.js, and PostgreSQL.
+
+🤝 Collaborative and detail-oriented, I prioritize effective version control with Git and GitHub, ensuring seamless teamwork and efficient code management.
+
+📚 Committed to continuous learning and staying updated, I'm excited to contribute to innovative web projects and eager to connect for opportunities!
+
+✍️ In my leisure moments, I indulge in the art of writing, exploring realms beyond coding.
+
 ## 📫 Let's Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/skimranhussain4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-imran-hussain/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skimranhussain4@gmail.com)
 [![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/skimranhussain)
-
-## 🚀 My Projects
-[![Food App](Asset/foodapp.png)](https://github.com/skimran-coder/Food-App)
-[![Brainly](Asset/brainly.png)](https://github.com/skimran-coder/brainly)
-[![Portfolio](Asset/portfolio.png)](https://github.com/skimran-coder/Portfolio)
-[![Knowledge Nation](Asset/project_1.png)](https://github.com/skimran-coder/Knowledge-Nation)
 
 ## 💡 Fun Facts
 - 🖋️ In my moments of leisure, I'm captivated by the art of storytelling through the written word.
