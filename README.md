@@ -52,23 +52,6 @@ Full-Stack Developer | MERN Stack | PostgreSQL | Prisma | Next.js | Redux | Git 
 ## 💡 Fun Facts
 - 🖋️ In my moments of leisure, I'm captivated by the art of storytelling through the written word.
 
-## 🏆 Trophies:
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"></a>
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=skimran-coder&row=4&theme=onedark&no-frame=true" />
-
-<hr/>
-
-📊 GitHub Stats
-<br>
-<br>
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=skimran-coder&show_icons=true)
-
-📈 My GitHub Top Languages
-<br>
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skimran-coder)
-
 👁️ Visitors
 ![Visitors](https://komarev.com/ghpvc/?username=skimran-coder&style=flat-square&color=blue)
 
